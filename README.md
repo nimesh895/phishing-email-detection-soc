@@ -22,7 +22,7 @@ SOC Analyst Project — Phishing Email Detection using NLP &amp; Machine Learnin
 
 #### 2. Data Collection & Preprocessing (NLP)
 ![Download Dataset](download%20enron%20email%20dataset.png)
-![Clean Text](Clean%20text%20ready%20for%20ML%20models%20similar%20to%20what%20SOC%20analysts%20do%20to%20standardize%20data%20for%20automation3.png)
+![Clean Text](Clean%20text%20ready%20for%20ML%20models,%20similar%20to%20what%20SOC%20analysts%20do%20to%20standardize%20data%20for%20automation3.png)
 - Removed HTML, punctuation, stopwords
 - Used **Bag of Words** + **TF-IDF Vectorizer**
 
