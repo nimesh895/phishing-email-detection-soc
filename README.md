@@ -22,12 +22,12 @@ SOC Analyst Project — Phishing Email Detection using NLP &amp; Machine Learnin
 
 #### 2. Data Collection & Preprocessing (NLP)
 ![Download Dataset](download%20enron%20email%20dataset.png)
-![Clean Text](Clean%20text%20ready%20for%20ML%20models%20similar%20to%20what%20SOC%20analysts%20do.png)
+![Clean Text](Clean%20text%20ready%20for%20ML%20models%20similar%20to%20what%20SOC%20analysts%20do%20to%20standardize%20data%20for%20automation3.png)
 - Removed HTML, punctuation, stopwords
 - Used **Bag of Words** + **TF-IDF Vectorizer**
 
 #### 3. Model Training
-![Train Model](train%20a%20model%20Naive%20Bayes%20classifier%20can%20detect%20phishing%20emails.png)
+![Train Model](train%20a%20model%20Naive%20Bayes%20classifier%20can%20detect%20phishing%20emails%20..png)
 - Trained **Naive Bayes** (baseline) + **Logistic Regression** (final model)
 - 80/20 Train-Test split
 - Evaluated with accuracy, precision, recall, F1-score, confusion matrix
