@@ -27,7 +27,7 @@ SOC Analyst Project — Phishing Email Detection using NLP &amp; Machine Learnin
 - Used **Bag of Words** + **TF-IDF Vectorizer**
 
 #### 3. Model Training
-![Train Model](train%20a%20model%20Naive%20Bayes%20classifier%20can%20detect%20phishing%20emails%20.%20.png)
+![Train Model](train%20a%20model%20Naive%20Bayes%20classifier%20can%20detect%20phishing%20emails%20.png)
 - Trained **Naive Bayes** (baseline) + **Logistic Regression** (final model)
 - 80/20 Train-Test split
 - Evaluated with accuracy, precision, recall, F1-score, confusion matrix
