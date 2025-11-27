@@ -73,4 +73,4 @@ SOC Analyst Project — Phishing Email Detection using NLP &amp; Machine Learnin
 **Year**: 2025
 
 ---
-**Perfect for SOC Analyst, Cybersecurity Analyst, or Blue Team internships**
+**Perfect for SOC Analyst, Cybersecurity Analyst, or  Blue Team internships**
